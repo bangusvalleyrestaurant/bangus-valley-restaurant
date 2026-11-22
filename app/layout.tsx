@@ -17,7 +17,10 @@ const bodyFont = DM_Sans({
 export const metadata: Metadata = {
   title: "BANGUS VALLEY RESTAURANT | Kashmiri Wazwan | Chowkibal Road Kralpora",
   description: "BANGUS VALLEY RESTAURANT at Chowkibal Road Kralpora. Enjoy Kashmiri Wazwan and order your favorite dishes online. Home delivery also available.",
-  keywords: ["Bangus Valley Restaurant", "Bangus Valley Restaurant", "Kralpora Restaurant", "Chowkibal Road Restaurant", "Kashmiri Wazwan", "Kashmiri Food", "Wazwan Restaurant", "Home Delivery Kralpora"]
+  keywords: ["Bangus Valley Restaurant", "Bangus Valley Restaurant", "Kralpora Restaurant", "Chowkibal Road Restaurant", "Kashmiri Wazwan", "Kashmiri Food", "Wazwan Restaurant", "Home Delivery Kralpora"],
+  verification: {
+    google: "2lyyrkdkUp_5_SkIpQ5y_wqKhW6I-LZ7GWEkOUQ7lzQ",
+  },
 };
 
 const premiumStyles = `
